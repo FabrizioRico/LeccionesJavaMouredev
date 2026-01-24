@@ -1,6 +1,6 @@
 package leccion.variablesConstantes;
 
-public class Ejercicios {
+public class VarConsEjercicios {
 
 	public static void main(String[] args) {
 

@@ -45,7 +45,7 @@ public class ClaseVarCon {
 		//Por buenas practicas, el nombre de la constante va en mayuscula, para 
 		//diferenciar de lsa variables
 		final String EMAIL = "fabrizioriscoalva05@gmail.com";
-		//EMAIL = "fabitorico@gmail.com"; 	MAL: No se cambia porque es 
+		//EMAIL = "fabitorico@gmail.com"; 	MAL: No se cambia porque esta en estado final
 		System.out.println(EMAIL);
 		
 	}
