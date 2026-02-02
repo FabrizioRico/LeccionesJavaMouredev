@@ -18,6 +18,8 @@ public class bucles {
 
 	public static void main(String[] args) {
 		
+		var hola = "hola";
+		
 		//Bucles
 		
 		//for controlado por contador
