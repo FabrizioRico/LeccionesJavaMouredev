@@ -17,8 +17,7 @@ import java.util.Map;
 public class bucles {
 
 	public static void main(String[] args) {
-		
-		var hola = "hola";
+
 		
 		//Bucles
 		
