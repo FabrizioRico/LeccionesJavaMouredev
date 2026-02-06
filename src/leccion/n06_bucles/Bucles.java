@@ -8,13 +8,11 @@
 
 package leccion.n06_bucles;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.Map;
 
-public class bucles {
+public class Bucles {
 
 	public static void main(String[] args) {
 
@@ -22,12 +20,12 @@ public class bucles {
 		//Bucles
 		
 		//for controlado por contador
-		for (int index = 0; index <= 5; index++) {
-			System.out.println("Hola bucleador");
+		for (int index = 0; index < 5; index++) {
+			System.out.println("Hola bucleador de 5");
 		}
 		
 		for (int index = 1; index <= 5; index++) {
-			System.out.println("Hola bucler");
+			System.out.println("Hola bucle desde 1");
 		}
 		
 //		for (int index = 5; index > 0; index += 2) {
@@ -71,6 +69,60 @@ public class bucles {
 		}
 		
 		//While
+		int index = 0;
+		
+		while (index < 5) {
+			System.out.println("Hola whilero");
+			index++;
+		}
+		
+		String[] actorName = {"Timothee Chalamet", "Zendaya", "Leonardo DiCaprio", "Rowan Atkinson"};
+		 
+		index = 0;
+		while (index < actorName.length) {
+			System.out.println(actorName[index]);
+			index++;
+		}
+		
+		Boolean find = false;
+		index = 0;
+		while (!find) {
+			System.out.println(actorName[index]);
+			if (actorName[index].equals("Zendaya")) {
+				find = true;
+				System.out.println(find);
+			}
+			index++;
+		}
+		
+		
+		//Do-while
+		
+		index = 0;
+		do {
+			System.out.println("Hola de nuevo");
+			index++;
+		} while (index < 0);
+		
+		
+		
+		//Control de bucles
+		//Break
+		for (String name:actorName) {
+			if (name.equals("Leonardo DiCaprio")) {
+				break;
+			}
+			System.out.println(name);
+		}
+		
+		//Continue
+		for (int i = 0; i < 5; i++) {
+			if (i == 3) {
+				continue;
+			}
+			System.out.println(i);
+		}
+
 	}
 
 }
