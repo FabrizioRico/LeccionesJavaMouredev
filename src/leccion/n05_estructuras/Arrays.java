@@ -1,6 +1,6 @@
 /*
  * Arrays
- * En esta clase exploramos los arreglos  
+ * En esta clase exploramos los arreglos (Array) 
  * 
  * Creado por: Fabrizio Risco Alva
  * Creado en: 28 ene. 2026

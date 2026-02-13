@@ -1,6 +1,6 @@
 /*
  * BuclesEjercicios
- * En esta clase exploramos...
+ * En esta clase resolvemos unos ejercicios relacionados a bucles
  * 
  * Creado por: Fabrizio Risco Alva
  * Creado en: 3 feb. 2026
@@ -86,7 +86,6 @@ public class BuclesEjercicios {
 		
 		
         // 7. Imprime los números del 10 al 1 (descendiente) con un bucle for.
-
 		for(int indexDesc = 10; indexDesc >= 1; indexDesc--) {
 			System.out.println(indexDesc);
 		}

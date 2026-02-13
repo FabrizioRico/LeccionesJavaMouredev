@@ -1,6 +1,6 @@
 /*
  * List
- * En esta clase exploramos...
+ * En esta clase exploramos sobre la lista (ArrayList)
  * 
  * Creado por: Fabrizio Risco Alva
  * Creado en: 28 ene. 2026

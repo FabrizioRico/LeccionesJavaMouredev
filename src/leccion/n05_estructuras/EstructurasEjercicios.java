@@ -1,6 +1,6 @@
 /*
  * EstructurasEjercicios
- * En esta clase exploramos...
+ * En esta clase resolvemos ejercicios sobre las estructuras de datos (Array, ArrayList, HashMap y HashSet)
  * 
  * Creado por: Fabrizio Risco Alva
  * Creado en: 29 ene. 2026

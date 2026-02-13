@@ -1,6 +1,6 @@
 /*
  * bucles
- * En esta clase exploramos...
+ * En esta clase exploramos los diferentes tipos de bucles
  * 
  * Creado por: Fabrizio Risco Alva
  * Creado en: 30 ene. 2026

@@ -1,6 +1,6 @@
 /*
  * Funciones
- * En esta clase exploramos...
+ * En esta clase exploramos como hacer funciones (con retorno y sin retorno) y sobrecargas
  * 
  * Creado por: Fabrizio Risco Alva
  * Creado en: 6 feb. 2026

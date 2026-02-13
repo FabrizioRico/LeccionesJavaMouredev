@@ -1,6 +1,6 @@
 /*
  * Maps
- * En esta clase exploramos...
+ * En esta clase exploramos sobre los HashMap
  * 
  * Creado por: Fabrizio Risco Alva
  * Creado en: 29 ene. 2026
